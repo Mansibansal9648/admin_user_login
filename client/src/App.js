@@ -4,6 +4,7 @@ import {LandingPage} from './LandingPage'
 import './App.css';
 import { PageNotFound } from './PageNotFound';
 import { Profile } from './Profile';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (

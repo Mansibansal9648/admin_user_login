@@ -8,7 +8,7 @@ export const LandingPage=()=>{
 return(
     <>
     <h1>On Landing Page</h1>
-    <input type="button" value="Go to Profile" onClick={()=>{history.push('/profile')}}></input>
+    <input type="button" class="btn btn-primary" value="Go to Profile" onClick={()=>{history.push('/profile')}}></input>
     </>
 )
 
